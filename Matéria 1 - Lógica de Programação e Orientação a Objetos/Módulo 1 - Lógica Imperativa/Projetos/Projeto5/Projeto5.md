@@ -9,7 +9,7 @@ Autor: Jonathas Carneiro
 
 <img src="https://user-images.githubusercontent.com/97403639/180218929-ee11fb01-114b-4b19-a118-7ba4c669b0a0.png" width="500px">
 
-## Intrução do projeto
+## Instrução do projeto
 
 Elabore um algoritmo que possa descobrir, através de perguntas e respostas, qual meio de transporte o usuário está pensando.
 O usuário deverá escolher uma das seguintes opções:

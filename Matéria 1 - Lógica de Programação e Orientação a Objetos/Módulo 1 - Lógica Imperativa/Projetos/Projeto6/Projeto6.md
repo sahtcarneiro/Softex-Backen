@@ -6,7 +6,7 @@ Autor: Jonathas Carneiro da Silva
 
 - O projeto será feito com base em pseudocógico, pois para desenvolvê-lo em uma linguagem de programação seria preciso desenvolver assuntos que ainda não foram abordados.
 
-## Intrução do projeto
+## Instrução do projeto
 
 Após uma prova de vestibular, uma escola quer identificar quantos dos seus alunos foram aprovados em cada turma de formandos. Ela quer saber qual aluno teve a maior nota e de qual turma ele é. Nessa escola, há quatro turmas (A, B, C e D) com vinte e cinco alunos cada.
 

@@ -6,7 +6,7 @@ Autor: Jonathas Carneiro
 
 O projeto será feito com base na linguagem de programação C++, exclusivamente por afinidade pessoal com a linguagem. Neste arquivo segue encluisivamente a descrição do proposição e da sua resolução, em paralelo, na pasta deste projeto, segue outro documento próprio do C++ para ser executado no DevC++ ou outras IDEs que suportem a linguagem.
 
-## Intrução do projeto
+## Instrução do projeto
 
 Elabore um algoritmo que representa um cadastro. Ele deve ler os seguintes dados fornecidos pelo usuário:
 
@@ -31,10 +31,10 @@ using namespace std;
 
 int main()
 {
-    string name, adress, city, fathersname, mothersname;
-    int cpf, rg;
-    float height, weight, income;
-    
+string name, adress, city, fathersname, mothersname;
+int cpf, rg;
+float height, weight, income;
+
     cout << "Digite seu nome: ";
     cin >> name;
     cout << "Digite o nome do seu Pai: ";
@@ -55,7 +55,8 @@ int main()
     cin >> weight;
     cout << "Digite sua renda bruta(em reais): ";
     cin >> income;
-    
+
     cout << "Confira os dados informados: ";
     cout << "Nome: " << name << "/ Nome do Pai: " << fathersname << "/ Nome da Mãe: " << mothersname << "/ Endereço: " << adress << "/ Cidade: " << city << "/ Cpf: " << cpf << "/ Rg: " << rg << "/ Altura: " << height << "/ Peso: " << weight << "/ Renda Bruta: " << income ;
+
 }
