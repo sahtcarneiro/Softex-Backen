@@ -14,13 +14,4 @@ No sistema, todos os valores devem estar armazenados em variáveis.
 
 ## Resolução do Projeto
 
-name = input("Qual o nome do aluno? ") <br>
-nota1 = float(input("Qual sua primeira nota? ")) <br>
-nota2 = float(input("Qual a segunda nota? ")) <br>
-media = float((nota1 + nota2) / 2) <br>
-faltas = int(input("Quantas faltas o aluno teve? ")) <br> <br>
-
-if media < 7 or faltas > 3: <br>
-print(name + " foi reprovado!") <br>
-else: <br>
-print(name + " foi aprovado!") <br>
+Segue em arquivo .py nesta mesma pasta.
