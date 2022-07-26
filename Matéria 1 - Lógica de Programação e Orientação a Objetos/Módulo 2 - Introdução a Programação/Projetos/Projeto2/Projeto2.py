@@ -5,11 +5,11 @@ categoria = "Categoria do Veículo"
 
 if (qnt_rodas < 4):
     categoria = "A"
-elif (qnt_rodas == 4 and qnt_pessoas <= 8 and peso <= 3500):
+elif (qnt_rodas == 4) and (qnt_pessoas <= 8) and (peso <= 3500):
     categoria = "B"
-elif (qnt_rodas >= 4 and peso > 3500 and peso < 6000):
+elif (qnt_rodas >= 4) and (peso > 3500) and (peso < 6000):
     categoria = "C"
-elif (qnt_rodas >= 4 and qnt_pessoas > 8):
+elif (qnt_rodas >= 4) and (qnt_pessoas > 8):
     categoria = "D"
 else:
     categoria: "E"
