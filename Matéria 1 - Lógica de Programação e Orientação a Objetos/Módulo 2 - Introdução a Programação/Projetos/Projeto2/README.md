@@ -19,22 +19,4 @@ E: Veículos com quatro rodas ou mais e com mais de 6000 kg.
 
 ## Resolução
 
-Além de seguir abaixo também se encontra num arquivo .py nesta mesma pasta.
-
-qnt_rodas = int(input("Quantas rodas tem o veículo? ")) <br>
-peso = float(input("Quantos quilogramas tem o veículo? ")) <br>
-qnt_pessoas = int(input("Quantas pessoas cabem no veículo? ")) <br>
-categoria = "Categoria do Veículo" <br>
-
-if (qnt_rodas < 4): <br>
-categoria = "A" <br>
-elif (qnt_rodas == 4) and (qnt_pessoas <= 8) and (peso <= 3500): <br>
-categoria = "B"<br>
-elif (qnt_rodas >= 4) and (peso > 3500) and (peso < 6000): <br>
-categoria = "C" <br>
-elif (qnt_rodas >= 4) and (qnt_pessoas > 8): <br>
-categoria = "D" <br>
-else: <br>
-categoria: "E" <br> <br>
-
-print("A categoria do veículo é " + categoria)
+Segue em um arquivo .py nesta mesma pasta.
