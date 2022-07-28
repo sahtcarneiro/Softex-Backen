@@ -21,7 +21,7 @@ Por fim, o programa deverá mostrar na tela:
 - a média geral das notas dos alunos;
 - e a maior média.
 
-Veja em anexo um exemplo do arquivo <a href="https://drive.google.com/file/d/1DBjw0RuLmmu9D9E15jxnbmX8kkHuyYvO/view">“alunos_situacao.csv”</a> ou abaixo:
+Veja em anexo um exemplo do arquivo <a href="https://drive.google.com/file/d/1DBjw0RuLmmu9D9E15jxnbmX8kkHuyYvO/view">“notas_alunos.csv”</a> ou abaixo:
 
 <img src="https://user-images.githubusercontent.com/97403639/181507058-d950ecc4-a62a-4705-aedc-b92860e28659.png" width="700px">
 
