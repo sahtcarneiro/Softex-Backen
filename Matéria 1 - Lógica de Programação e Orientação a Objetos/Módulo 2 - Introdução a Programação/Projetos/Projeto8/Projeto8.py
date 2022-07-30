@@ -15,7 +15,7 @@ df.loc[df["faltas"] > 5, "situacao"] = "Reprovado"
 df.to_csv("./assets/alunos_situacao.csv")
 
 mais_faltas = df["faltas"].max()
-media_geral = df["media"].median()
+media_geral = df["media"].mean()
 maior_media = df["media"].max()
 
 print("Olá, seja bem vindo ao programa de leitura e alteração de arquivos .csv com python!\nEspero que goste da experiência, estou ansioso pelo seu feedback\n")
